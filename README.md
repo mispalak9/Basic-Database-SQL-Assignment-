@@ -13,3 +13,6 @@
 2) Using Column Aliases
 3) About Summary Functions/Aggregate functions
    =>Summary/Aggregate Functions With Distinct
+
+==Topics Covered==DAY3
+1) Joins => Inner Join, Outer Join
