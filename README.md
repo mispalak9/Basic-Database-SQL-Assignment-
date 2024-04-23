@@ -16,3 +16,14 @@
 
 ==Topics Covered==DAY3
 1) Joins => Inner Join, Outer Join
+
+==Topics Covered==DAY4
+
+1) About Subqueries
+=>Standard Subqueries (SELECT, WHERE, FROM)
+=>Correlated Subqueries
+=>Subqueries using Exists or Not Exists
+
+2) About Union
+=>Union
+
