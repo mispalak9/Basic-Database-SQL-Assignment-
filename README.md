@@ -27,3 +27,9 @@
 2) About Union
 =>Union
 
+==Topics Covered==DAY5
+1) Character or Text functions (LEN, TRIM, UCASE, SUBSTRING~, PADDING)
+2) Date, Number, Math functions 	
+3) Formatting output
+4) LIMIT, Min, Max function
+5) Data Casting
