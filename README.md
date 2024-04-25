@@ -33,3 +33,9 @@
 3) Formatting output
 4) LIMIT, Min, Max function
 5) Data Casting
+
+==Topics Covered==DAY6
+1) DML statement
+=>INSERT
+=>UPDATE
+=>DELETE
