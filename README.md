@@ -35,10 +35,8 @@
 5) Data Casting
 
 ==Topics Covered==DAY6
-1) DML statement
-=>INSERT
-=>UPDATE
-=>DELETE
+1)About UNION and UNION ALL
+2)Difference between UNION and UNION ALL
 
 ==Topics Covered==DAY7
 1) About DML statement
