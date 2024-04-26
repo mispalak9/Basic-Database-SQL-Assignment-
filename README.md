@@ -39,3 +39,9 @@
 =>INSERT
 =>UPDATE
 =>DELETE
+
+==Topics Covered==DAY7
+1) About DML statement
+=> INSERT
+=> UPDATE
+=> DELETE
